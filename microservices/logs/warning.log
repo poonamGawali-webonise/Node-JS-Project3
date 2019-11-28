@@ -1,0 +1,10 @@
+{"message":"Username already exist","level":"warn"}
+{"message":"User not found with ID 5ddd0004c98831428119e100","level":"warn"}
+{"message":"Username already exist","level":"warn"}
+{"message":"User not found with ID 5dde159613c341223cbf89a2","level":"warn"}
+{"message":"Username already exist","level":"warn"}
+{"message":"exception: E11000 duplicate key error index: mydb1.userdetails.$username_1  dup key: { : \"poonam123@\" }","level":"error"}
+{"message":"User not found with ID 5dde135e13c341223cbf89a0","level":"warn"}
+{"message":"Username already exist","level":"warn"}
+{"message":"User not found with ID 5dde18755b28da267384f609","level":"warn"}
+{"message":"User not found with ID 5dde28dfc0078235a068e074","level":"warn"}

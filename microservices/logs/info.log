@@ -1,0 +1,600 @@
+{"message":"Creating a new user","level":"info"}
+{"message":"User added successfully","level":"info"}
+{"message":"Creating a new user","level":"info"}
+{"message":"Username already exist","level":"warn"}
+{"message":"Fetching all users","level":"info"}
+{"message":"Users get successfully","level":"info"}
+{"message":"Deleting single user","level":"info"}
+{"message":"User not found with ID 5ddd0004c98831428119e100","level":"warn"}
+{"message":"Deleting single user","level":"info"}
+{"message":"User deleted successfully","level":"info"}
+{"message":"Fetching all users","level":"info"}
+{"message":"Users get successfully","level":"info"}
+{"message":"Creating a new user","level":"info"}
+{"message":"User added successfully","level":"info"}
+{"message":"Creating a new user","level":"info"}
+{"message":"Username already exist","level":"warn"}
+{"message":"Fetching all users","level":"info"}
+{"message":"Users get successfully","level":"info"}
+{"message":"Fetching all users","level":"info"}
+{"message":"Users get successfully","level":"info"}
+{"message":"Creating a new user","level":"info"}
+{"message":"User added successfully","level":"info"}
+{"message":"Fetching single user","level":"info"}
+{"message":"User get successfully","level":"info"}
+{"message":"Deleting single user","level":"info"}
+{"message":"User deleted successfully","level":"info"}
+{"message":"Fetching single user","level":"info"}
+{"message":"User not found with ID 5dde159613c341223cbf89a2","level":"warn"}
+{"message":"Welcome to application","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to application","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to application","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Creating a new user","level":"info"}
+{"message":"User added successfully","level":"info"}
+{"message":"Fetching all users","level":"info"}
+{"message":"Users get successfully","level":"info"}
+{"message":"Fetching all users","level":"info"}
+{"message":"Users get successfully","level":"info"}
+{"message":"Fetching single user","level":"info"}
+{"message":"User get successfully","level":"info"}
+{"message":"Fetching all users","level":"info"}
+{"message":"Users get successfully","level":"info"}
+{"message":"Updating existing user","level":"info"}
+{"message":"Username already exist","level":"warn"}
+{"message":"exception: E11000 duplicate key error index: mydb1.userdetails.$username_1  dup key: { : \"poonam123@\" }","level":"error"}
+{"message":"Creating a new user","level":"info"}
+{"message":"User added successfully","level":"info"}
+{"message":"Fetching all users","level":"info"}
+{"message":"Users get successfully","level":"info"}
+{"message":"Deleting multiple users","level":"info"}
+{"message":"Creating a new user","level":"info"}
+{"message":"User added successfully","level":"info"}
+{"message":"Fetching all users","level":"info"}
+{"message":"Users get successfully","level":"info"}
+{"message":"Deleting single user","level":"info"}
+{"message":"User deleted successfully","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Fetching all users","level":"info"}
+{"message":"Users get successfully","level":"info"}
+{"message":"Deleting single user","level":"info"}
+{"message":"User not found with ID 5dde135e13c341223cbf89a0","level":"warn"}
+{"message":"Deleting single user","level":"info"}
+{"message":"User deleted successfully","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Fetching all users","level":"info"}
+{"message":"Users get successfully","level":"info"}
+{"message":"Fetching all users","level":"info"}
+{"message":"Users get successfully","level":"info"}
+{"message":"Creating a new user","level":"info"}
+{"message":"User added successfully","level":"info"}
+{"message":"Fetching all users","level":"info"}
+{"message":"Users get successfully","level":"info"}
+{"message":"Creating a new user","level":"info"}
+{"message":"Username already exist","level":"warn"}
+{"message":"Creating a new user","level":"info"}
+{"message":"User added successfully","level":"info"}
+{"message":"Fetching all users","level":"info"}
+{"message":"Users get successfully","level":"info"}
+{"message":"Deleting single user","level":"info"}
+{"message":"User not found with ID 5dde18755b28da267384f609","level":"warn"}
+{"message":"Deleting single user","level":"info"}
+{"message":"User deleted successfully","level":"info"}
+{"message":"Fetching all users","level":"info"}
+{"message":"Users get successfully","level":"info"}
+{"message":"Updating existing user","level":"info"}
+{"message":"User updated successfully","level":"info"}
+{"message":"Fetching all users","level":"info"}
+{"message":"Users get successfully","level":"info"}
+{"message":"Fetching all users","level":"info"}
+{"message":"Users get successfully","level":"info"}
+{"message":"Fetching all users","level":"info"}
+{"message":"Users get successfully","level":"info"}
+{"message":"Fetching single user","level":"info"}
+{"message":"User get successfully","level":"info"}
+{"message":"Deleting single user","level":"info"}
+{"message":"User not found with ID 5dde28dfc0078235a068e074","level":"warn"}
+{"message":"Fetching all users","level":"info"}
+{"message":"Users get successfully","level":"info"}
+{"message":"Deleting multiple users","level":"info"}
+{"message":"Fetching all users","level":"info"}
+{"message":"Users get successfully","level":"info"}
+{"message":"Creating a new user","level":"info"}
+{"message":"User added successfully","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Fetching all users","level":"info"}
+{"message":"Users get successfully","level":"info"}
+{"message":"Creating a new user","level":"info"}
+{"message":"User added successfully","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Fetching all users","level":"info"}
+{"message":"Users get successfully","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Welcome to Node application","level":"info"}
+{"message":"Swagger implemented","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
+{"message":"Server is running at 3000 port..","level":"info"}
+{"message":"Connected to database.","level":"info"}
