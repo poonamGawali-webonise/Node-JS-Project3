@@ -1,5 +1,6 @@
 var mongoose = require("mongoose");
 var passport = require("passport");
+const jwt = require('jsonwebtoken');
 var User = require("../models/user.model");
 
 var userController = {};
@@ -11,7 +12,6 @@ userController.home = function(req, res) {
 
 // Go to registration page
 userController.register = function(req, res) {
-//   res.render('register');
     res.sendFile('register.html', {root: __dirname })
 };
 
@@ -35,6 +35,9 @@ userController.login = function(req, res) {
 // Post login
 userController.doLogin = function(req, res) {
   passport.authenticate('local')(req, res, function () {
+      let user = req.body.username;
+      const token = jwt.sign(user, 'your_jwt_secret');
+      res.setHeader('Authorization', 'Bearer '+token)
     res.sendFile('home.html', {root: __dirname })
   });
 };
@@ -42,7 +45,13 @@ userController.doLogin = function(req, res) {
 // logout
 userController.logout = function(req, res) {
   req.logout();
-  res.redirect('/');
+  res.sendFile('register.html', {root: __dirname })
 };
+
+userController.findAll = (req,res)=>{
+    User.find(function(err,user){
+        console.log("User :",user)
+    })
+}
 
 module.exports = userController;

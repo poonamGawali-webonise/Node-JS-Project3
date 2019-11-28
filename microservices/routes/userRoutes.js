@@ -1,5 +1,6 @@
 var express = require('express');
 var userController=require('../controllers/userController');
+var tokenVerify=require('../middleware/jwtTokenVerify');
 
 module.exports=(function(){
     var router=express.Router();
@@ -21,6 +22,8 @@ module.exports=(function(){
 
     // route for logout action
     router.get('/logout', userController.logout);
+
+    router.get('/users',tokenVerify.checkToken,userController.findAll)
 
     return router;
 })();
