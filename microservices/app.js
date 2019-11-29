@@ -28,6 +28,7 @@ passport.use(new GoogleStrategy({
 },
 (token, refreshToken, profile, done) => {
     console.log("token :",token);
+    console.log("profile :",profile);
     return done(null, {
         profile: profile,
         token: token
@@ -61,7 +62,7 @@ app.get('/auth/google', passport.authenticate('google', {
 }));
 
 // The middleware receives the data from Google and runs the function on Strategy config
-app.get('/auth/google/callback', passport.authenticate('google'), (req, res) => {
+app.get('/auth/google/callback', passport.authenticate('google',{ failureRedirect: '/auth/google' }), (req, res) => {
     res.redirect('/secret');
 });
 

@@ -35,12 +35,7 @@ mongoose.connect(dbConfig.url,{}).then(()=>{
     logger.info("Connected to database.");
 }).catch();
 
-// app.post('/login',loginHandler.login);
-
-var userRoutes = require('./routes/userRoutes');
-
-app.use('/',router);
-router.use('/',userRoutes);
+// app.post('/login',lodonees);
 
 module.exports=app.listen(3000,function(req,res){
     logger.info("Server is running at 3000 port..")
