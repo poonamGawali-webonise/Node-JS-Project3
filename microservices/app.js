@@ -27,8 +27,11 @@ passport.use(new GoogleStrategy({
     callbackURL: REDIRECT_URL
 },
 (token, refreshToken, profile, done) => {
+    //profile contains the authenticated user's Google profile
+
+    console.log("email :",profile.emails[0].value)
     console.log("token :",token);
-    console.log("profile :",profile);
+    console.log("profile Name:",profile.displayName);
     return done(null, {
         profile: profile,
         token: token
@@ -58,17 +61,19 @@ app.get('/', (req, res) => {
 
 // passport.authenticate middleware is used here to authenticate the request
 app.get('/auth/google', passport.authenticate('google', {
-    scope: ['profile'] // Used to specify the required data
+    scope: ['https://www.googleapis.com/auth/plus.login','profile','email'] // Used to specify the required data
 }));
 
 // The middleware receives the data from Google and runs the function on Strategy config
-app.get('/auth/google/callback', passport.authenticate('google',{ failureRedirect: '/auth/google' }), (req, res) => {
+app.get('/auth/google/callback', passport.authenticate('google',{ failureRedirect: '/' }), (req, res) => {
     res.redirect('/secret');
 });
 
 // Secret route
 app.get('/secret', isUserAuthenticated, (req, res) => {
-    res.send('You have reached the secret route');
+    // Successful authentication, redirect home.
+    // res.send('You have reached the secret route');
+    res.sendFile('home.html',{root:__dirname});
 });
 
 // Logout route
