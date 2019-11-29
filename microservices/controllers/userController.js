@@ -2,6 +2,7 @@ var mongoose = require("mongoose");
 var passport = require("passport");
 const jwt = require('jsonwebtoken');
 var User = require("../models/user.model");
+var util = require('util');
 
 var userController = {};
 
@@ -51,7 +52,22 @@ userController.logout = function(req, res) {
 userController.findAll = (req,res)=>{
     User.find(function(err,user){
         console.log("User :",user)
+        res.json(user);
     })
+}
+
+userController.update = (req,res) =>{
+    if(Object.keys(req.body).length > 0){
+      User.findByIdAndUpdate(req.params.id,req.body,{new:true},function(err,user){
+        if(!util.isNullOrUndefined(user)){
+          res.status(200).json({"status":200,"message":"User updated successfully","data":user});
+        } else{
+          res.status(404).json({"status":404,"message":"User not found with ID "+req.params.id});
+        }
+      });
+    } else{
+      res.status(400).json({'status':400,'message':'User content can not be empty'});
+    }
 }
 
 module.exports = userController;

@@ -23,8 +23,8 @@ app.use(require('express-session')({
 app.use(passport.initialize());
 app.use(passport.session());
 
-// app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({extended: true}));
+app.use(bodyParser.json());
+// app.use(bodyParser.urlencoded({extended: true}));
 
 var User = require('./models/user.model');
 passport.use(new LocalStrategy(User.authenticate()));

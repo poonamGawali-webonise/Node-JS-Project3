@@ -23,7 +23,9 @@ module.exports=(function(){
     // route for logout action
     router.get('/logout', userController.logout);
 
-    router.get('/users',tokenVerify.checkToken,userController.findAll)
+    router.get('/users',tokenVerify.checkToken,userController.findAll);
+
+    router.patch('/users/:id',userController.update);
 
     return router;
 })();
